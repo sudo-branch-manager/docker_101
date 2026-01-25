@@ -3,10 +3,10 @@ An introductory guide to Docker featuring practical examples of containerizing a
 
 ## Technologies Used
 * Docker
-* NodeJS
-* ReactJS
+* Node.js
+* React.js
 * Vite
 * MongoDB
 * Express
-* NextJS
+* Next.js
 * Tailwind CSS
